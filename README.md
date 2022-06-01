@@ -28,7 +28,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=CarterMcAlister&show_icons=true&include_all_commits=true&theme=radical" alt="Carter's github stats" />
   </a>
 </div>
-<div align='center'>
+<div align='center' style="padding-top:10px;">
   <a href="https://github.com/CarterMcAlister/github-readme-stats">
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarterMcAlister&layout=compact&theme=radical" />
