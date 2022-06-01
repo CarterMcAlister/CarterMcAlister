@@ -4,7 +4,7 @@
 </h1>
 
 <p align='center'>
-  Fullstack and Solidity developer.
+  Fullstack and Solidity developer
 </p>
 
 <p align='center'>
