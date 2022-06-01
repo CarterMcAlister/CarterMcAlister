@@ -23,6 +23,7 @@
 
 </p>
 
+<div align='center'>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CarterMcAlister&show_icons=true&include_all_commits=true&theme=radical" alt="Carter's github stats" />
 </a>
@@ -30,6 +31,7 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarterMcAlister&layout=compact&theme=radical" />
 </a>
+  </div>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/CarterMcAlister/count.svg" />
