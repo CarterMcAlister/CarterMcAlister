@@ -1,10 +1,10 @@
 
 <h1 align='center'>
-  Hi 👋 I'm Carter 👨‍💻
+  Hi, I'm Carter 👋
 </h1>
 
 <p align='center'>
-  A Fullstack and Solidity developer.
+  Fullstack and Solidity developer.
 </p>
 
 <p align='center'>
