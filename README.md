@@ -34,8 +34,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarterMcAlister&layout=compact&theme=radical" />
   </a>
 </div>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/CarterMcAlister/count.svg" />
-</p>
