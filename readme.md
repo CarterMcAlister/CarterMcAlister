@@ -12,7 +12,6 @@
 
 ## MCPs
 
-- 📝 [granola-hosted-mcp](https://github.com/CarterMcAlister/granola-hosted-mcp) - A hosted MCP server that provides Claude and other MCP clients with access to your Granola meeting notes
 - 📊 [metabase-hosted-mcp](https://github.com/CarterMcAlister/metabase-hosted-mcp) - A hosted MCP for interacting with Metabase, built for Claude Teams
 - 📨 [telegram-hosted-mcp](https://github.com/CarterMcAlister/telegram-hosted-mcp) - A hosted MCP for interacting with Telegram, built for Claude Teams
 
