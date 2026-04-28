@@ -1,6 +1,7 @@
 ## Projects
 
 - 🛰️ [aerospace-layout-manager](https://github.com/CarterMcAlister/aerospace-layout-manager) - Automate the arrangement of windows into complex, repeatable layouts using aerospace
+- 🚀 [launchctrl-tui](https://github.com/CarterMcAlister/launchctrl-tui) - Terminal UI for inspecting and controlling macOS startup, login, and background items
 - 🌾 [yield-farming-tools](https://github.com/CarterMcAlister/yield-farming-tools) - Yield Farming aggregator and tooling
 
 
