@@ -1,6 +1,6 @@
 ## Projects
 
-- 🧭 [arklike](https://github.com/CarterMcAlister/arklike) - Native macOS menu-bar app that brings Arc-style workflows to Safari
+- ⛵ [arklike](https://github.com/CarterMcAlister/arklike) - Native macOS menu-bar app that brings Arc-style workflows to Safari
 - 🛰️ [aerospace-layout-manager](https://github.com/CarterMcAlister/aerospace-layout-manager) - Automate the arrangement of windows into complex, repeatable layouts using aerospace
 - 🚀 [launchctrl-tui](https://github.com/CarterMcAlister/launchctrl-tui) - Terminal UI for inspecting and controlling macOS startup, login, and background items
 - 🔍 [linear-code-review](https://github.com/CarterMcAlister/linear-code-review) - Chrome extension that adds in-page GitHub PR file trees and diffs to Linear review pages
