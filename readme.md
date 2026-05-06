@@ -7,6 +7,11 @@
 - 🌾 [yield-farming-tools](https://github.com/CarterMcAlister/yield-farming-tools) - Yield Farming aggregator and tooling
 
 
+## Obsidian Plugins
+
+- 🗄️ [obsidian-dbml](https://github.com/CarterMcAlister/obsidian-dbml) - DBML authoring, validation, generation, and diagram preview for Obsidian
+
+
 ## Pi Agent
 
 - 🥧 [pi-packages](https://github.com/CarterMcAlister/pi-packages) - A collection of my pi-mono extensions
