@@ -15,6 +15,7 @@
 ## Pi Agent
 
 - 🥧 [pi-packages](https://github.com/CarterMcAlister/pi-packages) - A collection of my pi-mono extensions
+- 🤖 [omp-discord-bridge](https://github.com/CarterMcAlister/omp-discord-bridge) - Discord gateway for persistent per-thread OMP sessions and slash-command access to OMP tools
 - ⚕️ [pi-doctor](https://github.com/CarterMcAlister/pi-doctor) - Reviews your pi sessions and makes suggestions on how to improve issues
 
 
